@@ -34,10 +34,12 @@ Agile:
 - Suitable for projects with changing requirements or a high degree of uncertainty.
 Example: When developing a mobile app, where the requirements may change rapidly and the timeline is flexible.
 
+
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. Software Developer: Creates software by designing, writing, and testing code.
 2. Quality Assurance Engineer: Checks if the software works correctly and meets the requirements.
 3. Project Manager: Oversees the project's timeline, budget, and resources.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs): Provide a complete workspace for developers, including tools for writing, testing and managing code. Examples: Eclipse, Visual Studio.
